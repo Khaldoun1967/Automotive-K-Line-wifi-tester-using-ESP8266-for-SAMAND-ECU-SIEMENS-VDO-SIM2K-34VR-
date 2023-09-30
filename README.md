@@ -3,3 +3,5 @@ This project is aimed to establish a wifi communication link between vehicle's c
 This work contains two major parts: 
 1- The hardware adapter connected to the vehicle obd2 port.
 2- The Software on the labtop that processes the data received over wifi from the hardware adapter.
+The hardware adapter is based on the esp8266 microcontroller and it is connected to the vehicle obd2 port through a k-line driver over a serial connection.
+At the same time the adapter  is connected with the consumer smart device (labtop, tablet, smart phone) by wifi connection.
