@@ -5,4 +5,4 @@ This work contains two major parts:
 2- The Software on the labtop that processes the data received over wifi from the hardware adapter.
 The hardware adapter is based on the esp8266 microcontroller and it is connected to the vehicle obd2 port through a k-line driver over a serial connection.
 At the same time the adapter  is connected with the consumer smart device (labtop, tablet, smart phone) by wifi connection.
-when the adapter plugged into vehicles obd2 port, it will initialize a connection session with the vehicles ECU, and it will also establish a wifi access point, allowing available smart devices to be connected to the vehicles ECU.
+When the adapter plugged into vehicles obd2 port, it will initialize a connection session with the vehicles ECU, and it will also establish a wifi access point, allowing available smart devices to be connected to the vehicles ECU.
