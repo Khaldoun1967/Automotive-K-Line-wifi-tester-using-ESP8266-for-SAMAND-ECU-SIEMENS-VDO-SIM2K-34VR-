@@ -1,0 +1,33 @@
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\Easy_Queue_System.exe.config
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\Easy_Queue_System.exe
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\Easy_Queue_System.pdb
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.exe
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.pdb
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.MainForm.resources
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.SystemParameters.resources
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\SimpleWifi.dll
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\SimpleWifi.pdb
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.Wifi_credential.resources
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\ElementControlLibrary.dll
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\ElementControlLibrary.pdb
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\PrinterControlLibrary1.dll
+C:\Users\Admin\Desktop\WiFi_qeuee\Easy_Queue_System\Easy_Queue_System\bin\Debug\PrinterControlLibrary1.pdb
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\Easy_Queue_System.exe.config
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.exe
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.pdb
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\Easy_Queue_System.exe
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\Easy_Queue_System.pdb
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\ElementControlLibrary.dll
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\PrinterControlLibrary1.dll
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\PrinterControlLibrary1.pdb
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\ElementControlLibrary.pdb
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\bin\Debug\SimpleWifi.pdb
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.MainForm.resources
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.SystemParameters.resources
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.Wifi_credential.resources
+C:\Users\Admin\Desktop\obd2 tester\c#\Easy_Queue_System\Easy_Queue_System\obj\Debug\Easy_Queue_System.csproj.GenerateResource.Cache

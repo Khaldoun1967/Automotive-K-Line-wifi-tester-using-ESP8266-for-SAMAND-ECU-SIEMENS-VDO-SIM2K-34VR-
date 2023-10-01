@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\obd2 tester\c#\k-line_LIB\bin\Debug\k-line_LIB.dll
+C:\Users\Admin\Desktop\obd2 tester\c#\k-line_LIB\bin\Debug\k-line_LIB.pdb
+C:\Users\Admin\Desktop\obd2 tester\c#\k-line_LIB\obj\Debug\k-line_LIB.dll
+C:\Users\Admin\Desktop\obd2 tester\c#\k-line_LIB\obj\Debug\k-line_LIB.pdb
+C:\Users\Admin\Desktop\obd2 tester\ESP8266 K-Line Project\c#\k-line_LIB\bin\Debug\k-line_LIB.dll
+C:\Users\Admin\Desktop\obd2 tester\ESP8266 K-Line Project\c#\k-line_LIB\bin\Debug\k-line_LIB.pdb
+C:\Users\Admin\Desktop\obd2 tester\ESP8266 K-Line Project\c#\k-line_LIB\obj\Debug\k-line_LIB.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\obd2 tester\ESP8266 K-Line Project\c#\k-line_LIB\obj\Debug\k-line_LIB.dll
+C:\Users\Admin\Desktop\obd2 tester\ESP8266 K-Line Project\c#\k-line_LIB\obj\Debug\k-line_LIB.pdb
